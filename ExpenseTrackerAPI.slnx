@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ExpenseTracker.Application/ExpenseTracker.Application.csproj" Id="d7c52c5a-4c12-4890-a41c-be0398f76d84" />
+  <Project Path="ExpenseTracker.DataLayer/ExpenseTracker.DataLayer.csproj" Id="83060e41-c93a-4100-8278-24f9b59a023e" />
+  <Project Path="ExpenseTrackerAPI/ExpenseTrackerAPI.csproj" />
+</Solution>
