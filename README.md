@@ -146,5 +146,5 @@ use postman from send request
 <h2 align="center">👨‍💻 Author</h2>
 
 <p align="center">
-Built as a portfolio-ready backend project demonstrating modern ASP.NET Core API development.<br/>
+A backend practice project has been built for the portfolio that demonstrates modern ASP.NET Core API development.<br/>
 </p>
