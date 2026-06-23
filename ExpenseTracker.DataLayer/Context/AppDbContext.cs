@@ -65,7 +65,8 @@ namespace ExpenseTracker.DataLayer.Context
                     Note = "Restaurant",
                     CreatedAt = new DateTime(2026, 1, 11),
                     CategoryId = 1,
-                    UserId = userId
+                    UserId = userId,
+                    CategoryName = "Food"
                 },
                 new Expense
                 {
@@ -76,7 +77,8 @@ namespace ExpenseTracker.DataLayer.Context
                     Note = "City ride",
                     CreatedAt = new DateTime(2026, 1, 11),
                     CategoryId = 2,
-                    UserId = userId
+                    UserId = userId,
+                    CategoryName = "Transport"
                 }
             );
             #endregion
