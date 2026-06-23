@@ -1,4 +1,3 @@
-
 <h1 align="center">💰 Expense Tracker API</h1>
 
 <p align="center">
@@ -69,6 +68,8 @@ POST   /api/auth/register
 POST   /api/auth/login
 </pre>
 
+![عکس ثبت نام](./ExpenseTrackerAPI/ImageExamples/RegisterExample.png)
+
 <h4>Expenses</h4>
 
 <pre>
@@ -79,6 +80,9 @@ PATCH  /api/expenses/{id}
 DELETE /api/expenses/{id}
 </pre>
 
+![نمایش هزینه ها](./ExpenseTrackerAPI/ImageExamples/ExpenseExample.png)
+[نمایش تصویر عملیات patch](./ExpenseTrackerAPI/ImageExamples/PatchExample.png)
+
 <h4>Categories</h4>
 
 <pre>
@@ -88,6 +92,8 @@ POST   /api/categories
 PUT    /api/categories/{id}	
 DELETE /api/categories/{id}
 </pre>
+
+![نمایش دسته بندی ها](./ExpenseTrackerAPI/ImageExamples/CategoryExample.png)
 
 <hr/>
 
@@ -113,6 +119,8 @@ GET /api/expenses?sortBy=title&sortDirection=desc
 
 GET /api/expenses?pageNumber=1&pageSize=10&sortBy=title&sortDirection=asc&minAmount=100
 </pre>
+
+![نمایش نمونه فیلتر](./ExpenseTrackerAPI/ImageExamples/ExpenseFilterExample.png)
 
 <h2>▶️ Run the Project | اجرای پروژه</h2>
 
